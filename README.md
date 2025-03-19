@@ -1,1 +1,1 @@
-# Resumen-Estad-stico-B-sico-Uso-Servidor
+# Resumen-Estadistico-Basico-Uso-Servidor
